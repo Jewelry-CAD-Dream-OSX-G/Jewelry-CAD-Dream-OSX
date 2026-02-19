@@ -42,12 +42,6 @@ Manufacturing compatibility through jewelry-specific measurements uses standard 
 
 ---
 
-<p align="center">
-  <img src="https://jewelrydesignacademy.wordpress.com/wp-content/uploads/2019/10/jewelry-cad-dream-chennai-designer-training-institute-courses-weekend-classes.jpg" alt="Jewelry CAD Dream screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 Jewelry CAD Dream distinguishes itself through jewelry-specific tools beyond general 3D modeling. Unlike generic CAD, specialized ring builders and prong tools serve jewelry production workflow requirements comprehensively.
